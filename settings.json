@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hareshbh.play.jumphosting.cloud",
-    "port": 19132,
+    "ip": "Hareshbha.aternos.me:56026",
+    "port": 56026,
     "version": "1.20.1",
     "try-creative": false
   },
