@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hareshbha.aternos.me:56026",
+    "ip": "Hareshbha.aternos.me",
     "port": 56026,
     "version": "1.20.1",
     "try-creative": false
